@@ -1,1 +1,1 @@
-days without server problems: 0
+days without server problems: more than 0
