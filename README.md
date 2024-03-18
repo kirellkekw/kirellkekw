@@ -6,3 +6,4 @@ currently working on a variety of things, here's a few:
 * portfolio website to save you the trouble of browsing repo after repo
 * some other stuff with python database adaptors
 * a tts bot for discord
+* self-hosted chatting app programmed with websockets
